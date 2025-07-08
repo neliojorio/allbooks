@@ -10,7 +10,7 @@ Essa é ma API Rest mockada, utilizando json-server e JWT.
 ## 🛠︝ Instalação
 
 ```bash
-$ npm install
+$ npm install 
 # $ npm run start-auth
 npm run start
 ```
